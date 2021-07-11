@@ -3,6 +3,15 @@ Print QR Codes straight in your terminal
 
 ## Usage
 
+### Add maven dependency
+```
+<dependency>
+    <groupId>io.github.shashankn</groupId>
+    <artifactId>qr-terminal</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
 ### Generate full size ASCII block QR Code
 
 ```
